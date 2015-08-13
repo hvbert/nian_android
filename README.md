@@ -1,6 +1,8 @@
 # nian_android
-test for learning
 
-i comed for test
+1.念 for android 切图
 
-changexxx
+2.流程图
+
+3.各页面说明稿
+
